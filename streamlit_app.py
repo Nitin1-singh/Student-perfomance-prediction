@@ -19,7 +19,7 @@ col1, col2 = st.columns([1,1])
 with col1:
     if st.button("Predict"):
         res = eval_result()
-        st.write("Predicted Score = ,{:.2f}.format(res/10)")
+        st.write("Predicted Score = ","{:.2f}".format(res/10))
     else:
         st.write('')
 with col2:
