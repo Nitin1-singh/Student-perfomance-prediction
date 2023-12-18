@@ -10,3 +10,5 @@ Performance Index: A measure of the overall performance of each student. The per
 The dataset aims to provide insights into the relationship between the predictor variables and the performance index. Researchers and data analysts can use this dataset to explore the impact of studying hours, previous scores, extracurricular activities, sleep hours, and sample question papers on student performance.
 
 P.S: Please note that this dataset is synthetic and created for illustrative purposes. The relationships between the variables and the performance index may not reflect real-world scenarios
+
+ALL Right Reserved to Kaggle and this particular dataset owner at Kaggle

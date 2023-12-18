@@ -9,21 +9,21 @@
   <p align="center">
     An live Model built with python and streamlit
     <br/>
-    <a href="https://price-prediction.streamlit.app/">Live Demo</a>
+    <a href="https://student-perfomance-prediction.streamlit.app/">Live Demo</a>
     .
-    <a href="https://github.com/Nitin1-singh/price/issues">Report Bug</a>
+    <a href="https://github.com/Nitin1-singh/Student-perfomance-prediction/issues">Report Bug</a>
     .
-    <a href="https://github.com/Nitin1-singh/price/issues">Request Feature</a>
+    <a href="https://github.com/Nitin1-singh/Student-perfomance-prediction/issues">Request Feature</a>
   </p>
 </div>
 <br />
 <!-- PROJECT SHIELDS -->
 <div align="center">
 
-  ![GitHub contributors](https://img.shields.io/github/contributors/Nitin1-singh/price)
-  ![GitHub forks](https://img.shields.io/github/forks/Nitin1-singh/price)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/Nitin1-singh/price)
-  ![GitHub issues](https://img.shields.io/github/issues/Nitin1-singh/price)
+  ![GitHub contributors](https://img.shields.io/github/contributors/Nitin1-singh/Student-perfomance-prediction)
+  ![GitHub forks](https://img.shields.io/github/forks/Nitin1-singh/Student-perfomance-prediction)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Nitin1-singh/Student-perfomance-prediction)
+  ![GitHub issues](https://img.shields.io/github/issues/Nitin1-singh/Student-perfomance-prediction)
   ![License](https://img.shields.io/badge/license-MIT-blue)
   ![Linkedin](https://img.shields.io/badge/Linkedin-grey?logo=linkedin)
 </div>
@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Hello, this is version 1 of my online house price prediction model, which is now accessible on GitHub and Live. It is an inital model and built for house price prediction for begaluru.  
+Hello, this is version 1 of my online Student Perfomace  prediction model, which is now accessible on GitHub and Live. It is an inital model and built for Student Perfomance prediction .  
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -68,6 +68,7 @@ The tools I employed for my portfolio
 
 * ![Python](https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB)
 * ![Streamlit](https://img.shields.io/badge/Streamlit-20232A?style=for-the-badge&logo=streamlit&logoColor=61DAFB)
+* ![Kaggle](https://img.shields.io/badge/Kaggle-20232A?style=for-the-badge&logo=kaggle&logoColor=61DAFB)
 * ![github](https://img.shields.io/badge/Github-20232A?style=for-the-badge&logo=github)
 * ![Scikit](https://img.shields.io/badge/scikit%20learn-20232A?style=for-the-badge&logo=scikitlearn&logoColor=61DAFB)
 * ![Numpy](https://img.shields.io/badge/numpy-20232A?style=for-the-badge&logo=numpy&logoColor=61DAFB)
@@ -95,7 +96,7 @@ The list of software you need:
 2. Clone the repo
 
    ```sh
-   git clone https://github.com/Nitin1-singh/portfolio-v1.git
+   git clone https://github.com/Nitin1-singh/Student-perfomance-prediction.git
    ```
 
 3. Install Python Module
